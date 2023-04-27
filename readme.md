@@ -1,5 +1,5 @@
 # Raw PHP Shop Cart Demo
 
-![screenshot1]([http://url/to/img.png](https://github.com/marufsharia/raw-php-shopping-cart/screenshot1.png))
+![screenshot1](https://github.com/marufsharia/raw-php-shopping-cart/blob/main/img/screenshot1.png?raw=true)
 
-![screenshot2]([http://url/to/img.png](https://github.com/marufsharia/raw-php-shopping-cart/screenshot2.png))
+![screenshot2](https://github.com/marufsharia/raw-php-shopping-cart/blob/main/img/screenshot2.png?raw=true)
