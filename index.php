@@ -114,9 +114,9 @@ $products = [
                     <p>
                     <pre>
                             <?php
-                            if (isset($_SESSION["cart"])) {
+                            /*  if (isset($_SESSION["cart"])) {
                                 print_r($_SESSION["cart"]);
-                            }
+                            } */
                             ?>
                         </pre>
                     </p>
