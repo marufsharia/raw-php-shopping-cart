@@ -1,4 +1,4 @@
-# Raw PHP Shop Cart Demo
+# Raw PHP Shoping Cart Demo
 
 ![screenshot1](https://github.com/marufsharia/raw-php-shopping-cart/blob/main/img/screenshot1.png?raw=true)
 
